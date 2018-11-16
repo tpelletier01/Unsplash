@@ -37,8 +37,17 @@
             <div class="card-body">
               <h2>Justin Kauffman</h2>
               <p>Travel Photographer X Cinematographer </p>
-              <a href="#">Photo Gallery</a>
             </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item"><a href="https://www.justin-kauffman.com/" 
+		  target="_blank">Website</a></li>
+              <li class="list-group-item"><a href="https://www.instagram.com/justindkauffman/" 
+		  target="_blank">Instagram</a></li>
+              <li class="list-group-item"><a href="https://vimeo.com/justinkauffman" 
+		  target="_blank">Vimeo</a></li>
+              <li class="list-group-item"><a href="https://www.linkedin.com/in/justindkauffman/" 
+		  target="_blank">LinkedIn</a></li>
+            </ul>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
@@ -46,16 +55,6 @@
           <p>this is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item"><a href="https://www.justin-kauffman.com/" 
-		  target="_blank">Website</a></li>
-          <li class="list-group-item"><a href="https://www.instagram.com/justindkauffman/" 
-		  target="_blank">Instagram</a></li>
-          <li class="list-group-item"><a href="https://vimeo.com/justinkauffman" 
-		  target="_blank">Vimeo</a></li>
-          <li class="list-group-item"><a href="https://www.linkedin.com/in/justindkauffman/" 
-		  target="_blank">LinkedIn</a></li>
-        </ul>
       </div>
       <!-- InstanceEndEditable -->
       <p>[footer]</p>
