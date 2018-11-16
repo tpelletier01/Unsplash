@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <!-- InstanceBegin template="/Templates/justin-kauffman-template.dwt" codeOutsideHTMLIsLocked="false" -->
+  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -12,18 +12,22 @@
     <title>Unsplash - Justin Kauffman</title>
     <!-- InstanceEndEditable -->
     <!-- InstanceBeginEditable name="head" -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
     <!-- InstanceEndEditable -->
   </head>
   <body>
     <div class="container">
       <h1>Unsplash Photographer Spotlight</h1>
       <p>[about me]</p>
+      <!-- InstanceBeginEditable name="master-content" -->
       <nav>
         <ol l class="breadcrumb">
           <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+          <!-- TemplateBeginEditable name="breadcrumb-trail" -->
           <li class="breadcrumb-item active">Justin Kauffman</li>
-          <!-- InstanceEndEditable -->
+          <li class="breadcrumb-item active" >Example Photo</li>
+          <!-- TemplateEndEditable -->
         </ol>
       </nav>
       <div class="row">
@@ -38,9 +42,9 @@
           </div>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
-          <!-- InstanceBeginEditable name="justin-kauffman-content" -->
+          <!-- TemplateBeginEditable name="justin-kauffman-content" -->
           <p>this is where content goes</p>
-          <!-- InstanceEndEditable -->
+          <!-- TemplateEndEditable -->
         </div>
         <ul class="list-group list-group-flush">
           <li class="list-group-item"><a href="https://www.justin-kauffman.com/" 
@@ -53,6 +57,7 @@
 		  target="_blank">LinkedIn</a></li>
         </ul>
       </div>
+      <!-- InstanceEndEditable -->
       <p>[footer]</p>
     </div>
     
