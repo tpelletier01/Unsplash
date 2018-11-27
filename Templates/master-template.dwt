@@ -16,7 +16,6 @@
   <body>
     <div class="container">
 		<h1>Unsplash Photographer Spotlight</h1>
-		<p>[about me]</p>
       <!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes</p>
       <!-- TemplateEndEditable -->
