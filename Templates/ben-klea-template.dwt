@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- InstanceBeginEditable name="doctitle" -->
-    <title>Unsplash - Jay Sadoff</title>
+    <title>Unsplash - Ben Klea</title>
     <!-- InstanceEndEditable -->
     <!-- InstanceBeginEditable name="head" -->
     <!-- TemplateBeginEditable name="head" -->
@@ -24,7 +24,7 @@
         <ol l class="breadcrumb">
           <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
           <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active">Jay Sadoff</li>
+          <li class="breadcrumb-item active">Ben Klea</li>
           <li class="breadcrumb-item active" >Example Photo</li>
           <!-- TemplateEndEditable -->
         </ol>
@@ -32,19 +32,20 @@
       <div class="row">
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
-            <img class="card-img-top" src="https://images.unsplash.com/profile-1540339508610-20bb6bdd394e?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Jay Sadoff">
+            <img class="card-img-top" src="https://images.unsplash.com/profile-1540252301988-030fd9b8036f?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Ben Klea">
             <div class="card-body">
-              <h2>Jay Sadoff</h2>
-              <p>Aspiring filmmaker and photographer studying Film Production at Chapman University. Originally from Charlotte, NC.</p>
+              <h2>Ben Klea</h2>
+              <p>Love to see the world with my family! I would love to hear from you if you were able to use a photo for something! 
+                
+                Follow me on Instagram @benkleaphoto</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"><a href="https://twitter.com/j_sadoff7?lang=en" target="_blank">Twitter</a></li>
-              <li class="list-group-item"><a href="https://www.youtube.com/channel/UCd2mHYttZTH4myssDUjTP4w" target="_blank">YouTube</a></li>
+              <li class="list-group-item"><a href="https://www.instagram.com/benkleaphoto/?utm_medium=referral&utm_source=unsplash" target="_blank">Instagram</a></li>
             </ul>
           </div>
         </div>
         <div class="col-12 col-sm-6 col-md-9">
-          <!-- TemplateBeginEditable name="jay-sadoff-content" -->
+          <!-- TemplateBeginEditable name="ben-klea-content" -->
           <p>this is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
