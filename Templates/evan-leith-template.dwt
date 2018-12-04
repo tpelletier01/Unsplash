@@ -1,6 +1,5 @@
 <!doctype html>
-<html lang="en">
-  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -15,6 +14,7 @@
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
   <!-- InstanceEndEditable -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   </head>
   <body>
   <div class="container">
@@ -54,10 +54,15 @@
     <!-- InstanceEndEditable -->
     <div class="row">
       <div class="col-12 col-sm-6">
-        Made with [love] and [coffee] by Trevor Pelletier.
+        Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Trevor Pelletier.
       </div>
       <div class="col-12 col-sm-6">
-        Connect with me: <a href="https://www.linkedin.com/in/trevor-pelletier-677626171/" target="_blank">LinkedIn</a> <a href="https://www.instagram.com/trevorpelletier/?hl=en" target="_blank">Instagram</a> <a href="https://github.com/tpelletier01" target="_blank">Github</a> <a href="https://twitter.com/Trevpelly" target="_blank">Twitter</a> <a href="https://www.facebook.com/trevor.pelletier.9" target="_blank">Facebook</a>
+        Connect with me: 
+		  <a href="https://www.linkedin.com/in/trevor-pelletier-677626171/" target="_blank"><i class="fab fa-linkedin"></i></a> 
+		  <a href="https://www.instagram.com/trevorpelletier/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a> 
+		  <a href="https://github.com/tpelletier01" target="_blank"><i class="fab fa-github"></i></a> 
+		  <a href="https://twitter.com/Trevpelly" target="_blank"><i class="fab fa-twitter-square"></i></a> 
+		  <a href="https://www.facebook.com/trevor.pelletier.9" target="_blank"><i class="fab fa-facebook"></i></a>
       </div>
     </div>
   </div>
@@ -68,5 +73,4 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-  <!-- InstanceEnd -->
-</html>
+<!-- InstanceEnd --></html>
