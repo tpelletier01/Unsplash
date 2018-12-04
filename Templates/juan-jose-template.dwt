@@ -15,6 +15,7 @@
   <!-- TemplateEndEditable -->
   <!-- InstanceEndEditable -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
   </head>
   <body>
   <div class="container">
@@ -51,12 +52,7 @@
         Made with <i class="fas fa-heart"></i> and <i class="fas fa-coffee"></i> by Trevor Pelletier.
       </div>
       <div class="col-12 col-sm-6">
-        Connect with me: 
-		  <a href="https://www.linkedin.com/in/trevor-pelletier-677626171/" target="_blank"><i class="fab fa-linkedin"></i></a> 
-		  <a href="https://www.instagram.com/trevorpelletier/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a> 
-		  <a href="https://github.com/tpelletier01" target="_blank"><i class="fab fa-github"></i></a> 
-		  <a href="https://twitter.com/Trevpelly" target="_blank"><i class="fab fa-twitter-square"></i></a> 
-		  <a href="https://www.facebook.com/trevor.pelletier.9" target="_blank"><i class="fab fa-facebook"></i></a>
+        Connect with me: <a href="https://www.linkedin.com/in/trevor-pelletier-677626171/" target="_blank"><i class="fab fa-linkedin"></i></a> <a href="https://www.instagram.com/trevorpelletier/?hl=en" target="_blank"><i class="fab fa-instagram"></i></a> <a href="https://github.com/tpelletier01" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/Trevpelly" target="_blank"><i class="fab fa-twitter-square"></i></a> <a href="https://www.facebook.com/trevor.pelletier.9" target="_blank"><i class="fab fa-facebook"></i></a>
       </div>
     </div>
   </div>
