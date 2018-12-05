@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    background-color: #eeeeee;
+}
+h1, h2, h3 {
+    font-family: 'Wire One', sans-serif;
+}
+a {
+    color: #25333a;
+}
+a:hover {
+    color: #409aa9;
+    text-decoration: none;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #25333a;
+	border-color: #25333a;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #409aa9;
+	border-color: #409aa9;
+}
+.unsplash-header {
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-header h1 small {
+	font-size: .35em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+.unsplash-header a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-header a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
