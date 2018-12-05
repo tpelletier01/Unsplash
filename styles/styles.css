@@ -25,10 +25,9 @@ a:hover {
 }
 .unsplash-header {
 	background-color: #25333a;
+	color: #ffffff;
 	padding-top: 1em;
 	padding-bottom: 1em;
-	margin: 0;
-	color: #ffffff;
 }
 .unsplash-header h1 small {
 	font-size: .35em;
@@ -42,4 +41,17 @@ a:hover {
 .unsplash-header a:hover {
 	color: #ffffff;
 	text-decoration: none;
+}
+.unsplash-footer {
+	border-top: solid 5px #409aa9;
+	background-color: #25333a;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 2em;
+	color: #ffffff;
+}
+.unsplash-footer a {
+	color: #ffffff;
+	font-size: 2em;
+	margin-left: .25em;
 }
