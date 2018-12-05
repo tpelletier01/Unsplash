@@ -55,3 +55,9 @@ a:hover {
 	font-size: 2em;
 	margin-left: .25em;
 }
+.unsplash-home-page-intro {
+	background-color: #409aa9;
+	padding:3em 0;
+	color: #ffffff;
+	margin-bottom: 2em;
+}
