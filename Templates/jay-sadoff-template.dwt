@@ -17,6 +17,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
   <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   <!-- InstanceParam name="home-page-intro" type="boolean" value="false" -->
+  <!-- InstanceParam name="navigation" type="boolean" value="true" -->
   </head>
   <body>
   <div class="unsplash-header">
@@ -25,6 +26,16 @@
     </div>
   </div>
   
+	  
+	      <nav class="unsplash-navigation">
+      <ol l class="breadcrumb">
+        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+        <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+      <li class="breadcrumb-item active">Justin Kauffman</li>
+      <li class="breadcrumb-item active" >Example Photo</li>
+      <!-- InstanceEndEditable -->
+      </ol>
+    </nav>
   <div class="container">
     <!-- InstanceBeginEditable name="master-content" -->
       <nav>
@@ -45,8 +56,8 @@
               <p>Aspiring filmmaker and photographer studying Film Production at Chapman University. Originally from Charlotte, NC.</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"><a href="https://twitter.com/j_sadoff7?lang=en" target="_blank">Twitter</a></li>
-              <li class="list-group-item"><a href="https://www.youtube.com/channel/UCd2mHYttZTH4myssDUjTP4w" target="_blank">YouTube</a></li>
+              <li class="list-group-item"><a href="https://twitter.com/j_sadoff7?lang=en" target="_blank"><i class="fab fa-twitter-square"></i> Twitter</a></li>
+              <li class="list-group-item"><a href="https://www.youtube.com/channel/UCd2mHYttZTH4myssDUjTP4w" target="_blank"><i class="fab fa-youtube-square"></i> YouTube</a></li>
             </ul>
           </div>
         </div>

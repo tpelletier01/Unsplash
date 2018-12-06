@@ -61,3 +61,10 @@ a:hover {
 	color: #ffffff;
 	margin-bottom: 2em;
 }
+.unsplash-navigation {
+	background-color: #409aa9;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}

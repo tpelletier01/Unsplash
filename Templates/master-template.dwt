@@ -15,6 +15,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
   <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   <!-- TemplateParam name="home-page-intro" type="boolean" value="false" -->
+  <!-- TemplateParam name="navigation" type="boolean" value="true" -->
   </head>
   <body>
   <div class="unsplash-header">
@@ -38,7 +39,19 @@
   <!-- TemplateEndIf -->
   <div class="container">
     <!-- TemplateBeginEditable name="master-content" -->
-    <p>This is where content goes</p>
+      <div class="unsplash-navigation">
+    <div class="container">
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+          <li class="breadcrumb-item active">Justin Kauffman</li>
+          <li class="breadcrumb-item active" >Example Photo</li>
+          <!-- InstanceEndEditable -->
+        </ol>
+      </nav>
+    </div>
+  </div>
     <!-- TemplateEndEditable -->
   </div>
   <div class="unsplash-footer">
