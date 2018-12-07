@@ -26,27 +26,20 @@
     </div>
   </div>
   
-	  
-	      <nav class="unsplash-navigation">
-      <ol l class="breadcrumb">
-        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-        <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+  <div class="unsplash-navigation">
+    <div class="container">
+      <nav>
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
       <li class="breadcrumb-item active">Justin Kauffman</li>
       <li class="breadcrumb-item active" >Example Photo</li>
       <!-- InstanceEndEditable -->
-      </ol>
-    </nav>
-  <div class="container">
-    <!-- InstanceBeginEditable name="master-content" -->
-    <nav>
-      <ol l class="breadcrumb">
-        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-        <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-        <li class="breadcrumb-item active">Ben Klea</li>
-        <li class="breadcrumb-item active" >Example Photo</li>
-        <!-- TemplateEndEditable -->
-      </ol>
-    </nav>
+        </ol>
+      </nav>
+    </div>
+  </div>
+  <!-- InstanceBeginEditable name="master-content" -->
     <div class="row">
       <div class="col-12 col-sm-6 col-md-3">
         <div class="card">
@@ -69,7 +62,6 @@
       </div>
     </div>
     <!-- InstanceEndEditable -->
-  </div>
   <div class="unsplash-footer">
     <div class="container">
       <div class="row">

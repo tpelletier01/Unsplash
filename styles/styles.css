@@ -68,3 +68,19 @@ a:hover {
 	margin: 0;
 	margin-bottom: 2em;
 }
+.unsplash-navigation .breadcrumb {
+	background-color: #409aa9;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-navigation .breadcrumb li.active {
+	color: #25333a;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
+}

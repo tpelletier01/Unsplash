@@ -1,23 +1,17 @@
 <!doctype html>
-<html lang="en"><!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <!-- InstanceBeginEditable name="doctitle" -->
   <title>Unsplash - Casey Horner</title>
-  <!-- InstanceEndEditable -->
-  <!-- InstanceBeginEditable name="head" -->
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
-  <!-- InstanceEndEditable -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400|Wire+One" rel="stylesheet">
   <link href="../styles/styles.css" rel="stylesheet" type="text/css">
-  <!-- InstanceParam name="home-page-intro" type="boolean" value="false" -->
-  <!-- InstanceParam name="navigation" type="boolean" value="true" -->
   </head>
   <body>
   <div class="unsplash-header">
@@ -25,51 +19,30 @@
       <h1><a href="../index.html">Unsplash Photographer Spotlight <small>by Trevor Pelletier</small></a></h1>
     </div>
   </div>
-  
-	  
-	      <nav class="unsplash-navigation">
-      <ol l class="breadcrumb">
-        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-        <!-- InstanceBeginEditable name="breadcrumb-trail" -->
-      <li class="breadcrumb-item active">Justin Kauffman</li>
-      <li class="breadcrumb-item active" >Example Photo</li>
-      <!-- InstanceEndEditable -->
-      </ol>
-    </nav>
   <div class="container">
-    <!-- InstanceBeginEditable name="master-content" -->
-    <nav>
-      <ol l class="breadcrumb">
-        <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-        <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-        <li class="breadcrumb-item active">Casey Horner</li>
-        <li class="breadcrumb-item active" >Example Photo</li>
-        <!-- TemplateEndEditable -->
-      </ol>
-    </nav>
-    <div class="row">
-      <div class="col-12 col-sm-6 col-md-3">
-        <div class="card">
-          <img class="card-img-top" src="https://images.unsplash.com/profile-1502669002421-a8d274ad2897?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Casey Horner">
-          <div class="card-body">
-            <h2>Casey Horner</h2>
-            <p>Follow me on instagram @mischievous_penguins or at least credit me if you post one of my images....and if you enjoy my images and feel generous, any donations will be graciously accepted.
-              PayPal.me/CaseyHorner </p>
-          </div>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="https://www.instagram.com/mischievous_penguins/?hl=en" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
-			  <li class="list-group-item"><a href="https://yourshot.nationalgeographic.com/profile/1593857/" target="_blank"><i class="fas fa-paw"></i> National Geographic</a></li>
-			  <li class="list-group-item"><a href="https://www.facebook.com/caseyhornerphoto/" target="_blank"><i class="fab fa-facebook-square"></i> Facebook</a></li>
-          </ul>
+  <!-- TemplateBeginEditable name="master-content" -->master-content
+  <div class="row">
+    <div class="col-12 col-sm-6 col-md-3">
+      <div class="card">
+        <img class="card-img-top" src="https://images.unsplash.com/profile-1502669002421-a8d274ad2897?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Casey Horner">
+        <div class="card-body">
+          <h2>Casey Horner</h2>
+          <p>Follow me on instagram @mischievous_penguins or at least credit me if you post one of my images....and if you enjoy my images and feel generous, any donations will be graciously accepted.
+            PayPal.me/CaseyHorner </p>
         </div>
-      </div>
-      <div class="col-12 col-sm-6 col-md-9">
-        <!-- TemplateBeginEditable name="casey-horner-content" -->
-        <p>this is where content goes</p>
-        <!-- TemplateEndEditable -->
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item"><a href="https://www.instagram.com/mischievous_penguins/?hl=en" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
+          <li class="list-group-item"><a href="https://yourshot.nationalgeographic.com/profile/1593857/" target="_blank"><i class="fas fa-paw"></i> National Geographic</a></li>
+          <li class="list-group-item"><a href="https://www.facebook.com/caseyhornerphoto/" target="_blank"><i class="fab fa-facebook-square"></i> Facebook</a></li>
+        </ul>
       </div>
     </div>
-    <!-- InstanceEndEditable -->
+    <div class="col-12 col-sm-6 col-md-9">
+      <!-- TemplateBeginEditable name="casey-horner-content" -->
+      <p>this is where content goes</p>
+      <!-- TemplateEndEditable -->
+    </div>
+  </div>
   </div>
   <div class="unsplash-footer">
     <div class="container">
@@ -83,11 +56,11 @@
       </div>
     </div>
   </div>
-  
+  <!-- TemplateEndEditable --> 
   <!-- Optional JavaScript --> 
   <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-<!-- InstanceEnd --></html>
+</html>

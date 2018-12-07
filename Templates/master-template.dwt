@@ -36,24 +36,23 @@
       </div>
     </div>
   </div>
-  <!-- TemplateEndIf -->
-  <div class="container">
-    <!-- TemplateBeginEditable name="master-content" -->
-      <div class="unsplash-navigation">
+  <!-- TemplateEndIf --><!-- TemplateBeginIf cond="navigation" -->
+  <div class="unsplash-navigation">
     <div class="container">
       <nav>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
-          <!-- InstanceBeginEditable name="breadcrumb-trail" -->
+          <!-- TemplateBeginEditable name="breadcrumb-trail" -->breadcrumb-trail
           <li class="breadcrumb-item active">Justin Kauffman</li>
           <li class="breadcrumb-item active" >Example Photo</li>
-          <!-- InstanceEndEditable -->
+          <!-- TemplateEndEditable -->
         </ol>
       </nav>
     </div>
   </div>
-    <!-- TemplateEndEditable -->
-  </div>
+  <!-- TemplateEndIf --><!-- TemplateBeginEditable name="master-content" -->master-content
+  <p>this is where content goes</p>
+  <!-- TemplateEndEditable -->
   <div class="unsplash-footer">
     <div class="container">
       <div class="row">
